@@ -1,4 +1,4 @@
-# ff14-rank
+# mayu
 
 > A Vue.js project
 
